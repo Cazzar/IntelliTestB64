@@ -1,0 +1,13 @@
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\IntelliTestIssue.Tests.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\IntelliTestIssue.Tests.pdb
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\IntelliTestIssue.exe
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\IntelliTestIssue.pdb
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\obj\Debug\IntelliTestIssue.Tests.csprojResolveAssemblyReference.cache
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\obj\Debug\IntelliTestIssue.Tests.dll
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue.Tests\obj\Debug\IntelliTestIssue.Tests.pdb

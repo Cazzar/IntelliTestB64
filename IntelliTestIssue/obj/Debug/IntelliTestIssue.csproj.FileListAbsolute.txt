@@ -1,0 +1,6 @@
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\bin\Debug\IntelliTestIssue.exe.config
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\bin\Debug\IntelliTestIssue.exe
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\bin\Debug\IntelliTestIssue.pdb
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\obj\Debug\IntelliTestIssue.csprojResolveAssemblyReference.cache
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\obj\Debug\IntelliTestIssue.exe
+d:\users\cayde\documents\visual studio 2015\Projects\IntelliTestIssue\IntelliTestIssue\obj\Debug\IntelliTestIssue.pdb
